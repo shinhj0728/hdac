@@ -1,0 +1,5 @@
+rpcuser=hdacrpc
+rpcpassword=hdac.anyone
+rpcallowip=192.168.1.0/24
+#rpcallowip=192.168.0.0/16
+
